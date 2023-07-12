@@ -1,0 +1,9 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section section article img{
+    /*object-fit: cover;*/
+    max-width: 350px;
+    max-height: 300px;
+}
